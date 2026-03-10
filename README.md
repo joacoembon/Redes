@@ -11,5 +11,4 @@ Cátedra Hamelin | Jueves | 2C2025
 ---
 ## Contenidos del repositorio
 - Contenido para la TPT (Del tema que nos tocó).
-- Resumen (largo) del libro **computer-networking-a-top-down-approach-8th-edition** en español. (no subido)
-- Guia de preguntas para el final. (no subido)
+- Resumen del libro **computer-networking-a-top-down-approach-8th-edition**.
